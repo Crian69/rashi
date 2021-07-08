@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 with open('README.md') as f:
     long_description = f.read()
 
-VERSION = '0.0.1'
+VERSION = '0.1'
 DESCRIPTION = 'Get Rashi'
 LONG_DESCRIPTION = 'A simple package that scrapes out `rashi fals` from https: // www.hamropatro.com/rashifal'
 
